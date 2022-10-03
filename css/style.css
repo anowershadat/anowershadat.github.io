@@ -1,0 +1,103 @@
+body {
+    
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+
+.banner-container {
+    background-color: #A0A0A0;
+}
+
+.banner-column {
+    background-color: #606060;
+}
+.about-container {
+    background-color: #009999;
+}
+.education-container {
+    background-color: #FFFFFF;
+}
+.bg-colour {
+    background-color: #FF9999;
+}
+.redtype-colour {
+    color: #FF3333;
+    
+}
+.bg-coltype {
+    background-color: blueviolet;
+    
+}
+
+.bg-coltype:hover {
+    background-color: #009999!important;
+    color: black!important;
+
+}
+.circle {
+    background-color: #FF3333;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    
+    
+    
+}
+.card {
+    background-color: #FFCC99;
+}
+
+.project-container {
+    background-color: #009999;
+}
+.portfolio-container {
+    background-color: #CCCCFF#CCCCFF;
+}
+
+.form-container {
+    background-color: rgb(65, 64, 64);
+}
+.box {
+    margin: auto;
+    width: 250px;
+    height: 150px;
+   
+}
+.inner-form {
+    background-color: #606060;
+}
+.btn {
+    width: 150px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.btn:hover {
+    color: black;
+}
+
+.footer-container {
+    background-color: #0080FF;
+    
+}
+.icon {
+    background-color: white;
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    font-size: 40px;
+    text-align: center;
+    color: #0080FF;
+    
+}
+.icon:hover {
+    background-color: rgb(106, 119, 107);
+    
+    color: #0080FF;
+    
+}
